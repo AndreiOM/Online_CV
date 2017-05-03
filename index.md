@@ -4,10 +4,10 @@
      Captain_Badger
                 
   ### Contact :
-     Phone : +40729192345
-     E-mail : lord_ando10@yahoo.com
-     Skype : buzzdeejaylord@live.com
-     Date of Birthday : 02/04/1996
+     1. Phone : +40729192345
+     2. E-mail : lord_ando10@yahoo.com
+     3. Skype : buzzdeejaylord@live.com
+     4. Date of Birthday : 02/04/1996
 
  
  
