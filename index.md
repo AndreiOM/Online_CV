@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Oancă Andrei Mădălin - Online Resume
+
+Nickname: Captain_Badger
 
 You can use the [editor on GitHub](https://github.com/BuzzDeejayLord/RoWebInternship/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
