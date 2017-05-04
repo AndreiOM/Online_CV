@@ -1,10 +1,10 @@
 ## Oancă Andrei Mădălin - Online Resume
 
-  ### Nickname :  
+  ### NICKNAME :  
   
      Captain_Badger
                 
-  ### Contact :
+  ### CONTACT :
   
      1. Phone : +40729192345
      
@@ -13,9 +13,20 @@
      3. Skype : buzzdeejaylord@live.com
      
      4. Date of Birthday : 02/04/1996
+     
+     5. [Linkedin account](https://www.linkedin.com/in/andrei-m%C4%83d%C4%83lin-oanc%C4%83-09076b137/)
 
  
- 
+  ### EDUCATION AND TRAINING :
+  
+      
+   #### September 2015 – Present – University – Bachelor Level 
+POLITEHNICA University of Bucharest -  Faculty of Engineering in Foreign Languages (English) – Computer and Information Technology Department 
+
+   #### September 2011 – May 2015 - High-School	
+National College  “Vasile Alecsandri “ Galaţi – Mathematics – Informatics
+
+  
  
  
  
