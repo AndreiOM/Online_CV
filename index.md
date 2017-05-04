@@ -62,6 +62,97 @@ Experience in publishing a scientific essays by co-writing with Associate Profes
 Kaufland – News Paper Delivery – (May 2014 – June 2015) – Distribution of newspapers
 
  
+###  COMMUNICATION SKILLS  
+
+Good communication skills - tutor during high school (December 2014 -  April 2015)
+
+1. Mathematics and English – Secondary school pupils
+
+2. tutor during university (November 2016 – February 2016) – Foreign students for different subjects: Mathematics for Engineering, Fundamental Circuit Theory , Object Oriented Programming  
+
+3. participate in debating contests during high school - November 2014
+
+Good listener – Keep the conversation focused and know how to give advices if needed 
+
+Friendly, Emphatic -  Able to strike up a conversation with someone I have just met    
+
+
+###  MANAGERIAL SKILLS 
+
+Leadership - As head of my group - (2015 – Present) 
+
+Team player – Always the first person to whom many of my colleagues turns for help 
+
+Active and productive 
+
+Efficient time management skill – Managed to be present at every course/ seminar/ laboratory at faculty while studying extra programming languages, pursuing my hobbies and participating in different meetings focused on technology themes.
+
+
+###  JOB-RELATED SKILLS
+
+Web developing (HTML, CSS, JavaScript, jQuery, PHP), Java, C#, C, C++, Swift, Assembly, XML, Racket, Arduino
+Photoshop
+
+OSes: Windows XP - 10, Linux (Ubuntu), Mac OS(Leopard – macOS Sierra)
+
+Office: Word, Excel, PowerPoint, Access, Publisher
+
+Resourceful – Able to optimize the code for best time efficiency and memory usage 
+
+Working under pressure and successful at reaching deadlines – Working under pressure brings the best out of me as I become extremely focused 
+
+
+
+###   ADDITIONAL INFORMATION
+
+Romanian Baccalaureate Exam – 9.63 – June 2015
+
+Romanian: 9.35
+Mathematics: 10
+Chemistry: 9.55
+
+
+High School Olympics:
+
+
+Physics – County Step – Mention February 2012 
+Mathematics – County Step - Mention February 2013
+English – County Step - Mention March 2012
+Chemistry – Participation – March 2014
+
+Contests :
+
+
+Mathematics: “Traian Lalescu “(1st and 2nd  year Mention) – January 2016, January 2017
+“Cristian S. Calude” – Mention – November 2014 
+“Gazeta Matematica “ - Top 50 math problem solver 
+
+
+Physics: Phy - 3rd place – February 2015  ; Mention – February 2012
+“Evrika “ Physics Magazine – Top 10 Physics Problem Solver in Galati – 2013-2014
+English: Kangaroo – 3rd Place - 2012
+Chemistry: “Magda Petrovanu“ – Participation – April 2014
+	
+  
+Robotic club: RobotiqueFF in FILS Faculty – Junior Member – October 2016 - Present
+IT Hackathon – FILS Smart Hack – “A Smart Sensor for Gas Detection” – Arduino Sensors – November 2016
+
+
+Former LSAC, EESTEC member – October 2016 – February – 2017 – Team Building, Other Activities
+	
+  
+Certifications: Database Design and Programming with SQL( May 2015)  - Oracle , ECDL Core Certificate (2013) – ECDL Romania 
+
+
+Publication: DRG (Diagnostic Related Groups) System in Romania – September 2016 – in collaboration with  Associate Professor Antohi Valentin Gabriel from “Dunarea de Jos “ University - Galati
+
+
+UPB Student Scientific Session – “Why is you Wi-Fi slow? “– May 2016 – English Department 
+
+Hobbies: Swimming, Music, Puzzles, Video Games (Racing, Strategy, RPG), Cooking, Photography, Chess,Origami
+
+ 
+ 
  
  
  
