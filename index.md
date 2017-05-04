@@ -1,12 +1,17 @@
 ## Oancă Andrei Mădălin - Online Resume
 
-  ### Nickname : 
+  ### Nickname :  
+  
      Captain_Badger
                 
   ### Contact :
+  
      1. Phone : +40729192345
+     
      2. E-mail : lord_ando10@yahoo.com
+     
      3. Skype : buzzdeejaylord@live.com
+     
      4. Date of Birthday : 02/04/1996
 
  
