@@ -17,13 +17,12 @@
      5. [Linkedin account](https://www.linkedin.com/in/andrei-m%C4%83d%C4%83lin-oanc%C4%83-09076b137/)
 
  
-  ### EDUCATION AND TRAINING :
+###  EDUCATION AND TRAINING :
   
-      
-   #### September 2015 – Present – University – Bachelor Level 
+####  September 2015 – Present – University – Bachelor Level 
 POLITEHNICA University of Bucharest -  Faculty of Engineering in Foreign Languages (English) – Computer and Information Technology Department 
 
-   #### September 2011 – May 2015 - High-School	
+####  September 2011 – May 2015 - High-School	
 National College  “Vasile Alecsandri “ Galaţi – Mathematics – Informatics
 
   
