@@ -1,35 +1,38 @@
-## Oancă Andrei Mădălin - Online Resume
+##   Oancă Andrei Mădălin - Online Resume
 
-  ### NICKNAME :  
+  ###  NICKNAME :  
   
      Captain_Badger
                 
-  ### CONTACT :
+  ###  CONTACT :
   
-     1. Phone : +40729192345
+   1. Phone : +40729192345
      
-     2. E-mail : lord_ando10@yahoo.com
+   2. E-mail : lord_ando10@yahoo.com
      
-     3. Skype : buzzdeejaylord@live.com
+   3. Skype : buzzdeejaylord@live.com
      
-     4. Date of Birthday : 02/04/1996
+   4. Date of Birthday : 02/04/1996
      
-     5. [Linkedin account](https://www.linkedin.com/in/andrei-m%C4%83d%C4%83lin-oanc%C4%83-09076b137/)
+   5. [Linkedin account](https://www.linkedin.com/in/andrei-m%C4%83d%C4%83lin-oanc%C4%83-09076b137/)
 
  
 ###  EDUCATION AND TRAINING :
   
 ####  September 2015 – Present – University – Bachelor Level 
+
 POLITEHNICA University of Bucharest -  Faculty of Engineering in Foreign Languages (English) – Computer and Information Technology Department 
 
+
 ####  September 2011 – May 2015 - High-School	
+
 National College  “Vasile Alecsandri “ Galaţi – Mathematics – Informatics
 
   
  
  
  
-You can use the [editor on GitHub](https://github.com/BuzzDeejayLord/RoWebInternship/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Linkedin account](https://www.linkedin.com/in/andrei-m%C4%83d%C4%83lin-oanc%C4%83-09076b137/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
