@@ -28,7 +28,30 @@ POLITEHNICA University of Bucharest -  Faculty of Engineering in Foreign Languag
 
 National College  “Vasile Alecsandri “ Galaţi – Mathematics – Informatics
 
-  
+
+###  WORK EXPERIENCE : 
+
+Volunteering & ExtraCurricular Activities:   Kids’ Palace Galaţi – (2005-2011) - Talking part in different courses: Informatics, English , French, Ship Modelling, Chess, Ping Pong
+            Let’s Do It Romania!(2012–2013)Civic movement that promotes regional clean-up events
+	          Christmas Carol Songs (December 2014) – Organisation Team – Fund raising for poor kids .It was a show where people paid for a ticket and the donation went to a foster home 
+	          Week End Tea House – (October – November 2014) – Organisation Team and participant – Talks on a variety of subject. I was in charge of everything that was audio-video (microphones, cameras). 
+	          Mathematics Contest “Cristian S. Calude” – Both Organisation Team and contender– (Each year between November 2011-2015 )- I supervised a class of participants, checked their answers, prize award ceremony, corridor superviser.
+	          CNVA Newspaper – Written different articles – (September 2011 – May 2015) 
+            Scientific Session – Physics (“Lasers”), Chemistry(“Atoms”), Romanian(“Liceu, leagăn al amintirilor mele”) – (March 2013)
+	          CNVA Book Fair – (September 2014,2015,2016) – Selling and acquire new books for the current year of high school.
+                            “V.A Urechia “ Library – “Salonul Literar <<Axis Mundi >> “ – (January 2012)
+	          Coordination day – (April 2015) – What carrier is suitable for a young person according to their personality 
+	          International Francophonie Day – Organisation Team and Participant – Contest that included question about French history, events, literature and essays – (20 March 2014)
+
+	       
+Romanian Red Cross – First Aid Course – (March 2013)
+
+Experience in publishing a scientific essays by co-writing with Associate Professor Antohi Valentin Gabriel from “Dunarea de Jos “ University Galati – Faculty of Economics And Business Administration a paper on DRG System - DRG(Diagnostic Related Groups) System in Romania – June 2016 
+
+Kaufland – News Paper Delivery – (May 2014 – June 2015) – Distribution of newspapers
+
+ 
+ 
  
  
  
